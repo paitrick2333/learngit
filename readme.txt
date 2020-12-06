@@ -7,8 +7,5 @@ Git tracks changes of files.
 happy learning git.
 
 
-<<<<<<< HEAD
+
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is AND simple.
->>>>>>> feature1
